@@ -56,3 +56,13 @@ If you found this code useful, please cite the following paper:
 ## Acknowledgements
 Our codebase is built using multiple opensource contributions, please see [ACKNOWLEDGEMENTS](ACKNOWLEDGEMENTS) for more details. 
 
+## Lima 3D Dataset
+
+Download dataset and copy folder to 'Standalone/data/Lima3D':
+https://drive.google.com/drive/folders/1XJkNzD-z_V_pi2TbSnVRWn_6YyRnJxXv?usp=drive_link
+
+Download dataset and copy folder to 'Standalone/KPConvX/results':
+https://drive.google.com/drive/folders/1eOovCryX_5oysevYXammT38M61ZnAOjv?usp=drive_link
+
+
+Specify model in run_Lima3D.sh
